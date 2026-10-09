@@ -1,0 +1,8 @@
+finding_study_01,pipeline_or_study_change,measure_study_02
+Documentação redundante,Filtro de trivialidade e prompt orientado a valor semântico,Taxa de redundância e aceitação
+Maior valor em serviços,Priorizar camada complexidade e regra de negócio,Aceitação por tipo de componente
+Alterações indevidas,Comparação AST e bloqueio de diffs não documentais,Número de alterações executáveis
+Inconsistência de idioma e formato,Contrato de geração e template único,Conformidade ao padrão
+Alto custo de revisão,Entregas menores por contexto,Tempo correções e esforço percebido
+Dependência do domínio,Revisão por mantenedores e registro do contexto,Concordância entre perfis de avaliador
+

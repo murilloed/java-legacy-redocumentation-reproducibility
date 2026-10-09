@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Redocumentação de Sistemas Legados Java Usando uma Arquitetura de Multiagentes
+message: Cite este repositório e a dissertação ao reutilizar o protocolo ou o pipeline.
+type: software
+authors:
+  - family-names: Souza
+    given-names: Murillo Edson de Carvalho
+year: 2026
+repository-code: https://github.com/murilloed
+

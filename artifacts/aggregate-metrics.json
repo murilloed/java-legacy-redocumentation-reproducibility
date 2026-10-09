@@ -1,0 +1,26 @@
+{
+  "baseline": {
+    "total_public_targets": 1478,
+    "targets_with_javadoc": 9,
+    "targets_without_javadoc": 1469,
+    "classes": 521,
+    "methods": 866,
+    "constructors": 84,
+    "enums": 7
+  },
+  "recorded_execution": {
+    "total_added": 1466,
+    "total_skipped": 9,
+    "validation_failed": 3,
+    "model_calls_attempted": 1466,
+    "model_calls_succeeded": 1463,
+    "model_calls_failed": 0
+  },
+  "study_01": {
+    "participants": 3,
+    "classes_reviewed": 10,
+    "gitlab_comments": 15,
+    "selected_transcript_excerpts": 35
+  }
+}
+
